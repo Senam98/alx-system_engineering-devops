@@ -1,0 +1,2 @@
+chmod 754 hello
+#!/bin/bash
